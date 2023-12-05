@@ -1,0 +1,74 @@
+{
+  "admin": {
+    "dni": "admin",
+    "clave": "admin"
+  },
+  "usuarios": [
+    {
+      "dni": -1,
+      "nombre": "admin",
+      "sueldo": 0,
+      "clave": "admin",
+      "saldo": 0,
+      "ultCambioContr": {},
+      "extHoy": [],
+      "movTotales": []
+    },
+    {
+      "dni": 22222222,
+      "nombre": "PRUEBA",
+      "sueldo": 1,
+      "clave": "Prueba123",
+      "saldo": 1,
+      "ultCambioContr": {},
+      "extHoy": [],
+      "movTotales": [
+        {
+          "monto": 1,
+          "fecha": [
+            29,
+            11,
+            2023
+          ]
+        },
+        {
+          "monto": 2,
+          "fecha": [
+            29,
+            11,
+            2023
+          ]
+        },
+        {
+          "monto": 3,
+          "fecha": [
+            30,
+            11,
+            2023
+          ]
+        }
+      ]
+    },
+    {
+      "dni": 33333333,
+      "nombre": "PRUEBA",
+      "sueldo": 1,
+      "clave": "Prueba321",
+      "saldo": 1,
+      "ultCambioContr": {},
+      "extHoy": [],
+      "movTotales": [
+        {
+          "monto": 4,
+          "fecha": [
+            30,
+            11,
+            2023
+          ]
+        }
+      ]
+    }
+  ],
+  "registrados": 3,
+  "fondos": 0
+}
